@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Chào Thư!',
+    introTitle: 'Chào Trang!',
     introDesc: `Tôi hỏi chú sâu xanh,
-    Lá có gì mà thích,
-    Chú sâu cười khúc khích,
-    Thích đâu cần lí do: <3`,
+    lá có gì mà thích,
+    chú sâu cười khúc khích,
+    thích đâu cần lí do: <3`,
     btnIntro: 'Hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
